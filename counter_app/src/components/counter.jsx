@@ -8,6 +8,7 @@ class  Counter extends Component {
         <div>
             <span>{this.formatCount()}</span>
              <button> Increment</button>
+             <h1>Hello</h1>
         </div>
         );
     }
